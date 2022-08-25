@@ -1,0 +1,20 @@
+[
+  {
+    "title": "hp Probook",
+    "price": 285384,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_732333-MLA49194493079_022022-F.webp",
+    "id": 3
+  },
+  {
+    "title": "apple MacBook Air",
+    "price": 299999,
+    "thumbnail": "https://images.fravega.com/f300/09ba4dd88b91d4c4759b5c2d66285158.jpg.webp",
+    "id": 2
+  },
+  {
+    "title": "lenovo IdeaPad",
+    "price": 129999,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_822706-MLA50208488284_062022-O.webp",
+    "id": 1
+  }
+]
